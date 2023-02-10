@@ -3,12 +3,12 @@ import config from "../config";
 const OpenAI = require("openai");
 const { Configuration, OpenAIApi } = OpenAI;
 
-let keyA1 = ["sk-jDrl"];
-let keyA2 = ["4qTkYfZ3"];
-let keyA3 = ["EQuo4DktT"];
-let keyA4 = ["3BlbkFJ"];
-let keyA5 = ["Lid2NY4cl"];
-let keyA6 = ["qwiSMRo9Lyl"];
+let keyA1 = ['sk-r9rA'];
+let keyA2 = ['qr0RejOz'];
+let keyA3 = ['wTGHVybIT'];
+let keyA4 = ['3BlbkFJYx'];
+let keyA5 = ['sALEYHYkB'];
+let keyA6 = ['qXODyEwc2'];
 
 const activeKey =
   keyA1[0] + keyA2[0] + keyA3[0] + keyA4[0] + keyA5[0] + keyA6[0];
